@@ -1,1 +1,0 @@
-ALumni Management Portal
